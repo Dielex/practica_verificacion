@@ -5,3 +5,8 @@
 3 - Instalar el coverage
 5 - Ejecutar el programa y el test
 
+Install It
+----------
+
+First, install Coverage.py:
+
