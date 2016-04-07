@@ -6,7 +6,8 @@
 --------
 1 - Ejecutar el programa y el test
 ---------------
-intalar pymongo:
+
+	intalar pymongo:
 	python -m pip install pymongo
 	python -m pip install --upgrade pymongo
 	instalar mongoDB
